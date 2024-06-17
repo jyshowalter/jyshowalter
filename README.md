@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Jason Showalter</h1>
 <h3 align="center">Software Engineer in the Bay Area</h3>
 
-- 🔭 I’m currently working on [a seating project app](https://github.com/jyshowalter/seating-chart-app)
+- 🔭 I’m currently working on [a Kanban based CRM with automated task lists](https://github.com/jyshowalter/kanban-crm)
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **Python, Flask, and Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
